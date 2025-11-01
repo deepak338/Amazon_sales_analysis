@@ -7,7 +7,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-orange.svg)
 ![License](https://img.shields.io/badge/License-Educational-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-success.svg)
->/div>
+</div>
 ---
 
 ## 📑 Table of Contents
