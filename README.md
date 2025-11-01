@@ -8,17 +8,12 @@
 ![License](https://img.shields.io/badge/License-Educational-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-success.svg)
 
-*A comprehensive data analysis project using Python, Pandas, and Seaborn to uncover insights from Amazon product sales data*
 
-[View Notebook](notebooks/EDA.ipynb) • [Data Quality Report](DATA_QUALITY_REPORT.md) • [View Visualizations](#visualizations)
-
-</div>
 
 ---
 
 ## 📑 Table of Contents
 
-- [STAR Methodology](#star-methodology)
   - [Situation](#-situation)
   - [Task](#-task)
   - [Action](#-action)
