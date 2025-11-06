@@ -12,7 +12,7 @@
 
 ## 📑 Table of Contents
 
-- [STAR Methodology](#star-methodology)
+
   - [Situation](#-situation)
   - [Task](#-task)
   - [Action](#-action)
