@@ -106,22 +106,8 @@ Conduct comprehensive exploratory data analysis to identify patterns, trends, an
 ✓ Verified zero duplicate rows
 ```
 
-**2. Feature Engineering**
 
-Created **8 new analytical features**:
-
-| Feature | Formula | Purpose |
-|---------|---------|---------|
-| `main_category` | Split from category hierarchy | Category-level analysis |
-| `sub_category` | Last level of category | Granular performance |
-| `engagement_level` | Binned rating_count | Segment analysis |
-| `discount_category` | Binned discount_percentage | Pricing strategy |
-| `sentiment` | Keyword-based classification | Customer satisfaction |
-| `value_score` | (Rating × Discount) / log(Price) | Value identification |
-| `quality_score` | Rating × log(Engagement) | Quality assessment |
-| `savings` | Actual Price - Discounted Price | Customer benefit |
-
-**3. Analysis Methodology**
+** Analysis Methodology**
 
 Conducted **6 comprehensive analyses** with **24 professional visualizations**:
 
@@ -161,7 +147,7 @@ Conducted **6 comprehensive analyses** with **24 professional visualizations**:
 - Keyword-based sentiment classification
 - Review length analysis
 - Most common words extraction
-- **4 Visualizations**: Sentiment distribution, Sentiment-rating correlation, Review length distribution, Word frequency
+- ** Visualizations**: Sentiment distribution, Sentiment-rating correlation, Review length distribution, Word frequency
 
 </details>
 
@@ -181,7 +167,7 @@ Conducted **6 comprehensive analyses** with **24 professional visualizations**:
 - Value score calculation
 - Price range optimization
 - Savings analysis
-- **4 Visualizations**: Value distribution, Rating by price range, Savings distribution, Discount-engagement relationship
+- ** Visualizations**: Value distribution, Rating by price range, Savings distribution, Discount-engagement relationship
 
 </details>
 
